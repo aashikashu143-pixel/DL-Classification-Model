@@ -173,7 +173,7 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ### Dataset Information
 Include screenshot of the dataset.
 
-<img width="921" height="642" alt="image" src="https://github.com/user-attachments/assets/aa0da1f9-6d5d-40ba-b7da-e660cf2abc5f" />
+<img width="866" height="637" alt="image" src="https://github.com/user-attachments/assets/47222475-9f0c-4706-9299-01a7c2460217" />
 
 
 ### OUTPUT
